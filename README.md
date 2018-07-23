@@ -8,3 +8,10 @@ Figure 1 shows
 
 
 Figure 2.
+![alt text](https://github.com/ljx821/Kickstarter/blob/master/2.png)
+
+
+
+
+Figure 3.
+![alt text](https://github.com/ljx821/Kickstarter/blob/master/3.png)
